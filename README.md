@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is simply a clean create-react-app install with bootstrap (4.4.1), react-bootstrap, node-sass (for sass compiling) and react-router-dom added. It has not been "ejected."
+
 ## Available Scripts
 
 In the project directory, you can run:
